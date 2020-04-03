@@ -15,12 +15,12 @@
             android:text="Click"
             android:layout_marginTop="20dp"/>
 
-        <TextView
-            android:id="@+id/textView"
+        <EditText
+            android:id="@+id/editText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:text="TextView1" />
+            android:hint="Name" />
 
         <TextView
             android:id="@+id/textView2"
